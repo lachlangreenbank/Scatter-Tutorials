@@ -90,10 +90,8 @@
 
 	# Copy the following plugins to the bottom of the file
 	plugin = eosio::producer_plugin
-	plugin = eosio::wallet_api_plugin
 	plugin = eosio::chain_api_plugin
 	plugin = eosio::http_plugin
-	plugin = eosio::account_history_api_plugin
 ```
 
   - Press "ctrl+x", then "y" and press enter to save the config file.
